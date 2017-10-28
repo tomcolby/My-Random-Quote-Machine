@@ -1,0 +1,38 @@
+body{
+background:#87CEFA;
+}
+
+h1{
+font-family:times roman;
+padding:20px;
+  font-size:25px;
+}
+
+h3{
+font-family:times roman;
+  font-size:20px;
+font-style:italic;
+  margin:5px;
+}
+
+.quotes{
+  background-color:#F0F8FF;
+  width:75%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:black;
+ border-style:solid;
+  border-radius:5px;
+  padding:10px;
+  padding-top:10px;
+  height:auto;
+}
+
+.quotes{
+font-size:20px; 
+font-family:times roman;  
+}
+.author{
+font-style:italic;
+font-size:18px;  
+}
